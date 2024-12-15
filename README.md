@@ -26,7 +26,7 @@
 <br>
 <br>
 
-<a href="https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x"><img src="  https://i.postimg.cc/BQ8KSkgX/Screenshots-2024-12-12-22-32-15-1.jpg    "> Join Our WhatsApp Channel" width="300"></a>
+<a href="https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x"><img src="  https://i.postimg.cc/BQ8KSkgX/Screenshots-2024-12-12-22-32-15-1.jpg    " width="300">join</a>
 
 <br>
 
