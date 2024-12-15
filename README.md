@@ -10,7 +10,7 @@
  
   <p align="center">  
   <a href="    https://i.postimg.cc/BQ8KSkgX/Screenshots-2024-12-12-22-32-15-1.jpg ">
-    <img alt="prabath-md" height="300" src="https://telegra.ph/file/1743544c222ffd613c219.jpg">
+    <img alt="prabath-md" height="300" src="   https://i.postimg.cc/BQ8KSkgX/Screenshots-2024-12-12-22-32-15-1.jpg   ">
     
   
   </a>
