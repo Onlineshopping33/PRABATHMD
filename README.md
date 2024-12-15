@@ -1,6 +1,6 @@
 <br>
 
-## PRABATH-MD 👨‍💻 🇱🇰 - A Javascript WhatsApp User Bot
+## PASIDU-MD👨‍💻 🇱🇰 - A Javascript WhatsApp User Bot
 
 <br>
 
@@ -9,7 +9,7 @@
 <br>
  
   <p align="center">  
-  <a href="https://telegra.ph/file/1743544c222ffd613c219.jpg">
+  <a href="    https://i.postimg.cc/BQ8KSkgX/Screenshots-2024-12-12-22-32-15-1.jpg ">
     <img alt="prabath-md" height="300" src="https://telegra.ph/file/1743544c222ffd613c219.jpg">
     
   
